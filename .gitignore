@@ -1,0 +1,34 @@
+# dependencies
+node_modules/
+/.pnp
+.pnp.*
+
+# testing
+/coverage
+
+# next.js
+/.next/
+/out/
+/build
+
+# misc
+.DS_Store
+*.pem
+dev.log
+*.log
+
+# env files: only the documented example is committed
+.env*
+!.env.example
+
+# vercel
+.vercel
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
+
+# local data: database, generated media, play runs, screenshots
+/data/
+/shots/
+.capture-profile*

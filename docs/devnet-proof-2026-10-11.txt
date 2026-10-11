@@ -1,0 +1,9 @@
+devnet RPC: https://api.devnet.solana.com
+pump.fun Global on devnet: fee 95 bps, creator fee 5 bps, virtual SOL 1
+airdrop refused: airdrop to CrvijiqWaWE4hWvGnj6wk3QvcG1EUtXjSV3H35ajiwzZ failed: Internal error
+simulating as devnet creator FrQu49kEhbzvgAg6FmQCN2xrSDeh28bYimrDvGjP23iH (balance 8.337916588 SOL), its coin BDMoaRHTF4oT9Ts59t3cVZD6dwpdsBuGBJxN4TPm4F3N
+OK   simulate create_v2 (FYPAD launch, no initial buy) — 880 bytes, 100005 CU
+OK   simulate create_v2 + ATA + initial buy 0.01 SOL — 1224 bytes, 186790 CU
+OK   simulate sweep + create_fee_sharing_config + update_fee_shares_v2 [80/20] — 1011 bytes, 202999 CU
+OK   simulate sweep_creator_fee + collect_creator_fee (Collect when the split is declined) — 612 bytes, 46538 CU
+ALL SIMULATIONS OK
